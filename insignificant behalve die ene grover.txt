@@ -1,0 +1,127 @@
+[pyzx] [Shallow] [Deep] [Few] [Many] [Maint]   [Name]
+  1714         ~      ~     ~      ~       ~   cycle17_3_cliffordt.qc
+  1270         ~      ~     ~      ~       ~   gf2^10_mult.qc
+  1035         ~      ~     ~      ~       ~   gf2^9_mult.qc
+   955       -8%    +2%   +2%    +1%     +1%   ham15-med.qc
+   928       -1%      ~     ~    -1%       ~   gf2^10_mult_pyzx.qc
+   926       -1%    -1%   -1%      ~       ~   gf2^10_mult.qc
+   824         ~      ~     ~      ~       ~   gf2^8_mult.qc
+   781       -1%      ~     ~    -1%       ~   gf2^9_mult_pyzx.qc
+   760         ~      ~     ~      ~       ~   gf2^9_mult.qc
+   637         ~      ~     ~      ~       ~   gf2^7_mult.qc
+   614       -1%    -1%     ~    -1%       ~   gf2^8_mult_pyzx.qc
+   598       -1%      ~     ~      ~       ~   gf2^8_mult.qc
+   548      -27%      ~     ~      ~       ~   grover_5.qc
+   495       -1%      ~     ~      ~       ~   gf2^7_mult_pyzx.qc
+   492         ~    -1%     ~      ~       ~   qcla_mod_7_pyzx.qc
+   485         ~      ~     ~      ~       ~   qcla_mod_7.qc
+   479         ~      ~     ~      ~       ~   gf2^7_mult.qc
+   474         ~      ~     ~      ~       ~   gf2^6_mult.qc
+   490       -1%      ~     ~      ~       ~   nth_prime6_pyzx.qc
+   489         ~      ~     ~      ~       ~   gf2^7_mult_tpar.qc
+   459         ~    -1%     ~      ~       ~   adder_8.qc
+   449         ~      ~     ~      ~       ~   csum_mux_9.qc
+   419         ~      ~     ~      ~       ~   ham15-med_pyzx.qc
+   386         ~    +1%   +1%    +2%     +1%   adder_8_pyzx.qc
+   364       -1%      ~     ~      ~       ~   gf2^6_mult_pyzx.qc
+   362         ~      ~     ~      ~       ~   gf2^6_mult.qc
+   362       +1%    -1%     ~    -1%       ~   qcla_adder_10_pyzx.qc
+   358       -1%      ~     ~      ~       ~   qcla_adder_10.qc
+   353       -5%      ~   -1%    -3%     +2%   Adder16_pyzx.qc
+   353         ~      ~     ~      ~       ~   gf2^6_mult_tpar.qc
+   321       -5%      ~     ~      ~       ~   ham15-low.qc
+   292         ~      ~     ~      ~       ~   grover_5_pyzx.qc
+   292         ~      ~     ~    -1%     -1%   csum_mux_9_tpar.qc
+   273       -1%      ~     ~    -1%       ~   gf2^5_mult_pyzx.qc
+   271         ~      ~     ~      ~       ~   csum_mux_9.qc
+   264         ~      ~     ~      ~       ~   gf2^5_mult_tpar.qc
+   260         ~      ~     ~      ~       ~   gf2^5_mult.qc
+   250       +3%    -2%   -1%      ~       ~   csum_mux_9_corrected_pyzx.qc
+   243         ~    -2%     ~    -1%     -1%   qcla_com_7_pyzx.qc
+   235         ~      ~     ~      ~       ~   qcla_com_7.qc
+   221         ~      ~     ~      ~       ~   ham15-low.qc
+   220         ~      ~     ~      ~       ~   ham15-low_pyzx.qc
+   220         ~      ~     ~      ~       ~   barenco_tof_10_pyzx.qc
+   219         ~      ~     ~      ~       ~   barenco_tof_10_tpar.qc
+   211         ~      ~     ~      ~       ~   barenco_tof_10.qc
+   188       -5%      ~     ~      ~     +2%   hwb6.qc
+   178         ~    -1%     ~      ~     -1%   tof_10_tpar.qc
+   177         ~      ~     ~      ~       ~   gf2^4_mult_pyzx.qc
+   172         ~      ~     ~      ~       ~   gf2^4_mult_tpar.qc
+   172         ~      ~     ~      ~       ~   tof_10.qc
+   172         ~      ~     ~      ~       ~   tof_10_pyzx.qc
+   171         ~      ~     ~      ~       ~   gf2^4_mult.qc
+   166       -3%    +1%     ~    -1%       ~   Adder8_pyzx.qc
+   157         ~      ~     ~      ~       ~   mod_red_21_tpar.qc
+   156         ~      ~     ~      ~       ~   rc_adder_6_tpar.qc
+   155         ~      ~     ~      ~       ~   mod_red_21.qc
+   153         ~    +1%   -1%    +1%     +1%   mod_red_21_pyzx.qc
+   151         ~      ~   -2%    -1%       ~   csla_mux_3.qc
+   148         ~      ~     ~      ~       ~   hwb6.qc
+   148         ~      ~     ~      ~       ~   csla_mux_3_original_pyzx.qc
+   148         ~      ~     ~      ~       ~   hwb6_pyzx.qc
+   126         ~      ~     ~      ~       ~   rc_adder_6_pyzx.qc
+   124         ~      ~     ~      ~       ~   rc_adder_6.qc
+   118         ~      ~     ~      ~       ~   grover_5_tpar.qc
+   109         ~      ~   -1%      ~       ~   qft_4.qc
+   109         ~      ~   -2%      ~       ~   qft_4_pyzx.qc
+   107         ~      ~     ~      ~       ~   qft_4.qc
+    95         ~      ~     ~      ~       ~   barenco_tof_5_pyzx.qc
+    94         ~      ~     ~      ~       ~   barenco_tof_5_tpar.qc
+    92         ~      ~     ~      ~       ~   barenco_tof_5.qc
+    90         ~      ~     ~      ~       ~   mod_mult_55_pyzx.qc
+    89       -4%      ~     ~      ~       ~   mod_mult_55_tpar.qc
+    89       -3%    -3%   -2%      ~       ~   mod_mult_55.qc
+    80       -2%    -2%   +1%    -2%     -2%   tof_5_tpar.qc
+    77         ~      ~     ~      ~       ~   tof_5.qc
+    77         ~      ~     ~      ~       ~   tof_5_pyzx.qc
+    76         ~      ~     ~    -2%       ~   vbe_adder_3_tpar.qc
+    75         ~    +1%     ~    -2%     -2%   vbe_adder_3_pyzx.qc
+    71         ~      ~     ~      ~       ~   vbe_adder_3.qc
+    70         ~    -2%     ~      ~       ~   barenco_tof_4_pyzx.qc
+    69         ~      ~     ~      ~       ~   barenco_tof_4_tpar.qc
+    68         ~      ~     ~      ~       ~   barenco_tof_4.qc
+    60         ~      ~     ~      ~       ~   tof_4_tpar.qc
+    58         ~      ~     ~      ~       ~   tof_4.qc
+    58         ~      ~     ~      ~       ~   tof_4_pyzx.qc
+    47         ~      ~     ~      ~       ~   mod5_4.qc
+    46       -3%    -3%     ~    -3%     -3%   barenco_tof_3_tpar.qc
+    43         ~      ~     ~      ~       ~   barenco_tof_3.qc
+    43         ~      ~     ~      ~       ~   barenco_tof_3_pyzx.qc
+    42         ~    -5%     ~      ~       ~   tof_3_tpar.qc
+    39         ~      ~     ~      ~       ~   tof_3.qc
+    39         ~      ~     ~      ~       ~   tof_3_pyzx.qc
+    33       +9%   +18%  +15%      ~       ~   mod5_4_tpar.qc
+    31       +6%      ~     ~      ~     +3%   mod5_4_pyzx.qc
+                                             　Adder32_pyzx.qc          　　timed out after 300 seconds
+                                             　Adder64_pyzx.qc          　　timed out after 300 seconds
+                                             　adder_8_tpar.qc          　　timed out after 300 seconds
+                                             　csla_mux_3_tpar.qc       　　timed out after 300 seconds
+                                             　cycle_17_3.qc            　　timed out after 300 seconds
+                                             　gf2^8_mult_pyzxtodd.qc   　　timed out after 300 seconds
+                                             　gf2^8_mult_tpar.qc       　　timed out after 300 seconds
+                                             　gf2^9_mult_tpar.qc       　　timed out after 300 seconds
+                                             　gf2^10_mult_tpar.qc      　　timed out after 300 seconds
+                                             　gf2^16_mult.qc           　　timed out after 300 seconds
+                                             　gf2^16_mult_pyzx.qc      　　timed out after 300 seconds
+                                             　gf2^16_mult_tpar.qc      　　timed out after 300 seconds
+                                             　gf2^32_mult.qc           　　timed out after 300 seconds
+                                             　gf2^32_mult_tpar.qc      　　timed out after 300 seconds
+                                             　gf2^64_mult.qc           　　timed out after 300 seconds
+                                             　gf2^128_mult.qc          　　timed out after 300 seconds
+                                             　gf2^256_mult.qc          　　timed out after 300 seconds
+                                             　hwb8.qc　　　　　　　　　　　　timed out after 300 seconds
+                                             　hwb8_pyzx.qc             　　timed out after 300 seconds
+                                             　hwb10.qc               　　　timed out after 300 seconds
+                                             　hwb11.qc               　　　timed out after 300 seconds
+                                             　hwb12.qc               　　　timed out after 300 seconds
+                                             　ham15-high.qc            　　timed out after 300 seconds
+                                             　ham15-high_pyzx.qc       　　timed out after 300 seconds
+                                             　ham15-med.qc             　　timed out after 300 seconds
+                                             　mod_adder_1024.qc        　　timed out after 300 seconds
+                                             　mod_adder_1024_pyzx.qc   　　timed out after 300 seconds
+                                             　mod_adder_1024_tpar.qc   　　timed out after 300 seconds
+                                             　mod_adder_1048576_tpar.qc　　timed out after 300 seconds
+                                             　nth_prime8_pyzx.qc       　　timed out after 300 seconds
+                                             　qcla_adder_10_tpar.qc    　　timed out after 300 seconds
+                                             　qcla_mod_7_tpar.qc       　　timed out after 300 seconds
